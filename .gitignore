@@ -1,0 +1,16 @@
+# Ignore All Files
+/*
+
+# Add Files
+!.gitignore
+!node_modules
+!package.json
+!package-lock.json
+!README.md
+!docs
+!.github
+
+# Ignore Dev Drectories & Files
+[Dd]ist
+[Cc]ache
+*.user
